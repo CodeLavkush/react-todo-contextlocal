@@ -1,12 +1,11 @@
-# React + Vite
+# Todo App
+## Built using react `usecontext()` hook and localstorage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is app made me by following a [yt tutorial](https://youtu.be/6KQeopPE36I?si=94ecEUpX-O-y9qpF)
 
-Currently, two official plugins are available:
+Making this project, I learned a lot about context hook in react. When i started with this project i have so many doubt's about the context hook but the tutorial explaination is simple and easy to understand.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+And yeah my javascript fundamentals are not strong enough, so that the reason i got litte bit difficulty :)
+but eventually i made it through!!
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Thanks **hitesh** sir for quality content...
